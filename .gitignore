@@ -1,0 +1,6 @@
+.claude/settings.local.json
+CLAUDE.local.md
+reports/*.md
+!reports/.gitkeep
+.env
+node_modules/
